@@ -1,4 +1,4 @@
-<h1>Hi🙂, I'm Jalen Livingston!</h1>
+<h1 align="center">Hi 🙂, I'm Jalen Livingston</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
